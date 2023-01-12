@@ -1,0 +1,2 @@
+nasm -f elf64 exemplo.asm 
+ld -s -o exevutavel exemplo.o
